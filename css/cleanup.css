@@ -1,28 +1,5 @@
 #wall .tag-1 {
   display: none;
-  z-index: 7;
-}
-
-#wall #tag-2 {
-  display: block;
-}
-
-div#wall #tag-3.slick {
-  display: block;
-}
-
-#tag-4 {
-  display: block;
-}
-
-#tag-5 {
-  display: block;
-}
-
-#tag-6 {
-  display: block;
-}
-
-#tag-7 {
-  display: block;
+  z-index: 7
+  box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
 }
