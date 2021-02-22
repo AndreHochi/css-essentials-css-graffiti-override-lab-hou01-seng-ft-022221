@@ -1,6 +1,6 @@
 #wall .tag-1 {
   display: none;
-  z-index: 7
+  z-index: 7;
   box-shadow: 90px 90px 90px green, -95px -95px 97px blue;
   border: 90px black;
   border-bottom: 600px black;
